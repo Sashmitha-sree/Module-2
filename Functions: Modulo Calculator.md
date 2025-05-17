@@ -1,6 +1,6 @@
 # Functions in Python: Modulo Calculator
 
-## NAME : SASHMTIHA SREE K V
+## NAME : SASHMITHA SREE K V
 ## REG NO: 212224230255
 
 ## 🎯 Aim
